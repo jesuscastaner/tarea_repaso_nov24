@@ -26,3 +26,16 @@ Tarea de repaso de EEDD - 24/11/2024
 * Hago commit con `git commit -m "..."`.
 * Cambio a la rama main con `git switch main`.
 * Hago merge desde nueva_rama a main con `git merge origin nueva_rama`.
+
+## tercer commit
+* Regreso a nueva_rama con `git switch nueva_rama`.
+* Añado las capturas de pantalla a "instrucciones.pdf".
+* Vuelvo a editar este "README.md" para incluir estas líneas.
+* Compruebo que git detecta los cambios con `git status`.
+* Lo añado al stage con `git add .`.
+* Hago commit con `git commit -m "..."`.
+* Cambio a la rama main con `git switch main`.
+* Hago merge desde nueva_rama a main con `git merge origin nueva_rama`.
+
+## push
+* Actualizo el repo remoto con `git push`.
